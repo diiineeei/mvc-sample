@@ -1,0 +1,44 @@
+{
+  "event": "TRANSFER_DONE",
+  "transfer": {
+    "scheduleDate": null,
+    "bankAccount": {
+      "agencyDigit": null,
+      "cpfCnpj": "***.075.856-**",
+      "pixAddressKey": "+5511941491079",
+      "ownerName": "Daniel Paulo Garcia",
+      "accountDigit": "0",
+      "account": "0000000",
+      "accountName": null,
+      "agency": "0",
+      "bank": {
+        "name": "NU PAGAMENTOS S.A. - INSTITUIÇÃO DE PAGAMENTO",
+        "ispb": "18236120",
+        "code": "260"
+      },
+      "type": "PAYMENT_ACCOUNT"
+    },
+    "externalReference": null,
+    "id": "389bc099-cde9-42ba-ac0d-757ab4c09d6d",
+    "operationType": "PIX",
+    "recurring": null,
+    "confirmedDate": "2025-08-19",
+    "canBeCancelled": false,
+    "endToEndIdentifier": "E19540550202508191903FI7KO9JML9V",
+    "type": "BANK_ACCOUNT",
+    "authorized": true,
+    "status": "DONE",
+    "failReason": null,
+    "value": 5,
+    "effectiveDate": "2025-08-19 16:03:28",
+    "dateCreated": "2025-08-19",
+    "object": "transfer",
+    "walletId": null,
+    "description": null,
+    "transferFee": 0,
+    "transactionReceiptUrl": "https://www.asaas.com/comprovantes/h/UElYX1RSQU5TQUNUSU9OX0RPTkU6YzE3NDY2N2ItMzQyNS00OGU4LWJjYzUtY2NlMjdiNzZlM2Q1%0A",
+    "netValue": 5
+  },
+  "id": "evt_a6f35f7766677518090c06e66ea44a4e&1029838165",
+  "dateCreated": "2025-08-19 16:03:29"
+}
